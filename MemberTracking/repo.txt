@@ -1,0 +1,5 @@
+Fram,bear,145,white.jpg
+Sonic,runner,17,blue.jpg
+Sloth,lazy,200,none.jpg
+Tom,hunter,29,grey.jpg
+Teddy,balm,8,brown.jpg
